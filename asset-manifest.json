@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Bojack-Clicky-Game/static/css/main.8014ba8a.chunk.css",
+    "main.js": "/Bojack-Clicky-Game/static/js/main.81b45436.chunk.js",
+    "main.js.map": "/Bojack-Clicky-Game/static/js/main.81b45436.chunk.js.map",
+    "runtime-main.js": "/Bojack-Clicky-Game/static/js/runtime-main.1311436f.js",
+    "runtime-main.js.map": "/Bojack-Clicky-Game/static/js/runtime-main.1311436f.js.map",
+    "static/js/2.016dbaa6.chunk.js": "/Bojack-Clicky-Game/static/js/2.016dbaa6.chunk.js",
+    "static/js/2.016dbaa6.chunk.js.map": "/Bojack-Clicky-Game/static/js/2.016dbaa6.chunk.js.map",
+    "index.html": "/Bojack-Clicky-Game/index.html",
+    "precache-manifest.3a69ff6802332a2c669d9520d8c33159.js": "/Bojack-Clicky-Game/precache-manifest.3a69ff6802332a2c669d9520d8c33159.js",
+    "service-worker.js": "/Bojack-Clicky-Game/service-worker.js",
+    "static/css/main.8014ba8a.chunk.css.map": "/Bojack-Clicky-Game/static/css/main.8014ba8a.chunk.css.map",
+    "static/js/2.016dbaa6.chunk.js.LICENSE.txt": "/Bojack-Clicky-Game/static/js/2.016dbaa6.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Bojack-Clicky-Game/static/media/0.69693e9e.jpg",
+    "static/media/1.jpg": "/Bojack-Clicky-Game/static/media/1.d1adf87c.jpg",
+    "static/media/10.jpg": "/Bojack-Clicky-Game/static/media/10.4c121079.jpg",
+    "static/media/11.jpg": "/Bojack-Clicky-Game/static/media/11.bfa08266.jpg",
+    "static/media/2.jpg": "/Bojack-Clicky-Game/static/media/2.42191237.jpg",
+    "static/media/3.jpg": "/Bojack-Clicky-Game/static/media/3.1b06b0c3.jpg",
+    "static/media/4.jpg": "/Bojack-Clicky-Game/static/media/4.2b0498a3.jpg",
+    "static/media/5.jpg": "/Bojack-Clicky-Game/static/media/5.e48d24cf.jpg",
+    "static/media/6.jpg": "/Bojack-Clicky-Game/static/media/6.a7ae8532.jpg",
+    "static/media/7.jpg": "/Bojack-Clicky-Game/static/media/7.d2b0c715.jpg",
+    "static/media/8.jpg": "/Bojack-Clicky-Game/static/media/8.5a82e315.jpg",
+    "static/media/9.jpg": "/Bojack-Clicky-Game/static/media/9.2ce35072.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1311436f.js",
+    "static/js/2.016dbaa6.chunk.js",
+    "static/css/main.8014ba8a.chunk.css",
+    "static/js/main.81b45436.chunk.js"
+  ]
+}
